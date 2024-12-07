@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [Blog](http://eberstr.gitbook.io/eberstr)
 * ✉️  You can contact me at [eberstr.antonio@gmail.com](mailto:eberstr.antonio@gmail.com)
 
-<p><a href=https://tryhackme.com/r/p/D4rth" taget="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/D4rth.png" alt="Your Image Badge" /></a></p>
+<p><a href=https://tryhackme.com/r/p/D4rth taget="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/D4rth.png" alt="Your Image Badge" /></a></p>
 
 ### Skills
 
