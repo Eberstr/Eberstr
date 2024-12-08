@@ -1,5 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eber
 ============================================================================================================================
+
+Hi, I'm Eber, a technology enthusiast with 4 years in IT. My passion: cybersecurity and programming. 🖥️ 🔐 I'm proficient in Python, AutoIT, Linux and more. From validating software, I'm now jumping into the exciting world of ethical hacking. Here I will share my journey in cybersecurity.
+
 * 🌍  I'm based in México 🇲🇽
 * 🖥️  See my portfolio at [Blog](http://eberstr.gitbook.io/eberstr)
 * ✉️  You can contact me at [eberstr.antonio@gmail.com](mailto:eberstr.antonio@gmail.com)
